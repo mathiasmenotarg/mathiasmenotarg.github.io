@@ -1,0 +1,22 @@
+body {
+  background: #111;
+  color: #ddd;
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: auto;
+  padding: 1em;
+}
+
+h1 {
+  color: #0ff;
+}
+
+a {
+  color: #0ff;
+}
+
+footer {
+  margin-top: 2em;
+  font-size: 0.8em;
+  color: #888;
+}
