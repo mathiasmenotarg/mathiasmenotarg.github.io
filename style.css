@@ -56,8 +56,5 @@ p {
 
 .image p {
   text-align: center;
-  line-height: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  line-height: 1.2;
 }
